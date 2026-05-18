@@ -1,2 +1,2 @@
 # nba-award-predictor
-project
+uses formulas to predict nba award winners based off stats and impact
